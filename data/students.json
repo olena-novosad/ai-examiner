@@ -1,0 +1,18 @@
+[
+  {
+    "email": "taras.shevchenko@lnu.edu.ua",
+    "name": "Тарас Шевченко"
+  },
+  {
+    "email": "olena@example.com",
+    "name": "Олена Коваль"
+  },
+  {
+    "email": "ivan@example.com",
+    "name": "Іван Петренко"
+  },
+  {
+    "email": "test@test.com",
+    "name": "Test Student"
+  }
+]
