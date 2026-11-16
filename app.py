@@ -6,7 +6,7 @@ from openai import (APIConnectionError, APIStatusError, AuthenticationError,
 from agent import PROVIDERS, ExamAgent
 from prompts import GREETING, SKIP_MESSAGE
 from tools import ExamError
-
+import os
 
 DESCRIPTION = """
 # AI Examiner — інтелектуальний екзаменатор з NLP
